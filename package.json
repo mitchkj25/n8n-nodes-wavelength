@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-wavelength",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n node for Wavelength: turn call notes and transcripts into editable process flow diagrams, then edit, review, summarize, and export them.",
 	"license": "MIT",
 	"homepage": "https://wavelengthflow.com",
