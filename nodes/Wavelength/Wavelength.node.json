@@ -1,0 +1,14 @@
+{
+	"node": "n8n-nodes-wavelength.wavelength",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Productivity"],
+	"resources": {
+		"credentialDocumentation": [
+			{ "url": "https://github.com/mitchkj25/n8n-nodes-wavelength#credentials" }
+		],
+		"primaryDocumentation": [
+			{ "url": "https://github.com/mitchkj25/n8n-nodes-wavelength#readme" }
+		]
+	}
+}
