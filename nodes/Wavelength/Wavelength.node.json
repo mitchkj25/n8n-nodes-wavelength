@@ -5,10 +5,14 @@
 	"categories": ["Productivity"],
 	"resources": {
 		"credentialDocumentation": [
-			{ "url": "https://github.com/mitchkj25/n8n-nodes-wavelength#credentials" }
+			{
+				"url": "https://github.com/mitchkj25/n8n-nodes-wavelength#credentials"
+			}
 		],
 		"primaryDocumentation": [
-			{ "url": "https://github.com/mitchkj25/n8n-nodes-wavelength#readme" }
+			{
+				"url": "https://github.com/mitchkj25/n8n-nodes-wavelength#readme"
+			}
 		]
 	}
 }

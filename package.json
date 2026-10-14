@@ -1,7 +1,7 @@
 {
 	"name": "n8n-nodes-wavelength",
-	"version": "0.1.1",
-	"description": "n8n node for Wavelength: turn call notes and transcripts into editable process flow diagrams, then edit, review, summarize, and export them.",
+	"version": "0.2.0",
+	"description": "n8n node for Wavelength: generate process flow diagrams from call notes and transcripts with the Wavelength REST API, then edit, review, summarize, and export them.",
 	"license": "MIT",
 	"homepage": "https://wavelengthflow.com",
 	"keywords": [
@@ -36,14 +36,14 @@
 		"n8nNodesApiVersion": 1,
 		"strict": true,
 		"credentials": [
-			"dist/credentials/WavelengthOAuth2Api.credentials.js"
+			"dist/credentials/WavelengthApi.credentials.js"
 		],
 		"nodes": [
 			"dist/nodes/Wavelength/Wavelength.node.js"
 		]
 	},
 	"devDependencies": {
-		"@n8n/node-cli": "*",
+		"@n8n/node-cli": "^0.51.4",
 		"eslint": "9.39.4",
 		"prettier": "3.8.3",
 		"release-it": "20.2.0",
